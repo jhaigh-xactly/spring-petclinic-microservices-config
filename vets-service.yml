@@ -1,7 +1,7 @@
 ﻿vets:
   cache:
     ttl: 60
-    heap-size: 61
+    heap-size: 206
 
 ---
 spring:
